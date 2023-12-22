@@ -19,4 +19,4 @@ pip install pyfiglet
 pip install phonenumbers
 
 echo "Installation complete. Run 'python3 phone_zone.py' to use the Phone-Zone tool."
-echo "if pyfiglet module is not installing plese run pip install pyfiglet manually"
+echo "if pyfiglet module is not installing please run pip install pyfiglet manually"
